@@ -1,12 +1,15 @@
 Things you need to be aware of before installing.
-
+-
 The term "variation swap" 
 in the rpfs you have 2 types of the same script, the normal version & the undead version the undead version has the same name just with a _z at the end.
 I created this mod just by removing the _z from the filenames & replacing the original scripts with the ones I just renamed making this mod considered a variation swap. 
 
+This is recommended to be used with the latest version of demonic rev because you can give your self undead weapons, loading the undead interiors loads in what the scripts do not.
+
 There is a section at the bottom for developers who are interested in developing a function that can be used in normal sp. 
 
 What does this mod do? 
+-
 This mod essentially brings the undead nightmare experience to your Free Roam lobbies that you can enjoy with other players.
 
 Specifically
@@ -19,29 +22,27 @@ When loaded by its self (not recommended) it loads all fires for towns & changes
 Loads in the undead sp challenges (useless in mp) gives you points for killing zombies kinda.
 
 Loads in fx for the 4 horses of the apocalypse.
-----------------------------------
-Mod background
 
+Mod background
+-
 I found this all the way back in 2018 & never released it due to it's freeze method when combined with other mods. 
 Matrix made a video of it but lost it when having his original channel unbanned.
 
 Fun fact
 When I was originally developing demonic rev, the freeze player function was inspired by this mod.
-------------------------------------
-Recommendations
 
-This is recommended to be used with the latest version of demonic rev because you can give your self undead weapons, loading the undead interiors loads in what the scripts do not.
--------------------------------
+
+
 Bugs
-
+-
 Zombies & undead horses are missing their applied skin/texture from undead sp. 
 
 Without demonic rev the interior for the catacombs will not load. Fix load undead interiors in the misc menu.
 
 Normal sp break. This breaks normal sp & makes it unplayable. unfortunately since this is a variation swap between scripts there is no toggle button. 
------------------
-For other developers
 
+For other developers
+-
 Since I discovered this I have been wanting to develop a safer toggleable function simulating the effect this mod has that can be used in sp without breaking it or used online without crashing others.
 
 -Weather (loop)
@@ -100,7 +101,7 @@ If done correctly you will be given all the undead weapons once toggled.
 
 Getting them to load in mp you need to be bypassed.
 Caboose created a plugin for auto bypass but I'm not releasing it without the say so from him.
----------------------
+
 
 If you make your own, continue on the name & version & give credit where due.
 
